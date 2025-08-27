@@ -3,6 +3,8 @@
 #include <iostream>
 #include "Shader.h"
 
+// TODO: add a abstraction layer for the window.
+// TODO: add a example on how to use the Engine.
 int main() {
     if (!glfwInit()) {
         std::cerr << "Failed to initialize GLFW\n";
