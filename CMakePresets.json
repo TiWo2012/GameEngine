@@ -8,8 +8,6 @@
     {
       "name": "debug",
       "displayName": "Debug Build",
-      "generator": "Visual Studio 17 2022",
-      "architecture": "x64",
       "binaryDir": "${sourceDir}/build/debug",
       "cacheVariables": {
         "CMAKE_BUILD_TYPE": "Debug",
