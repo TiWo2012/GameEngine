@@ -1,3 +1,5 @@
 # GameEngine
 
-**Currently only works on Windows due to Visual Studio project files.**
+## this
+
+this is a game engine at least i hope so.
