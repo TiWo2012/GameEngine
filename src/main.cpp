@@ -6,7 +6,6 @@
 
 // TODO: add a abstraction layer for the window.
 // TODO: add a example on how to use the Engine.
-
 int main() {
     GLFWwindow* window = create_window(800, 600, "LearnOpenGL");
 
